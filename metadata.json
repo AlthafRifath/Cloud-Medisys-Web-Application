@@ -1,0 +1,5 @@
+{
+  "name": "Medisys Secure Report Uploader",
+  "description": "A secure web application for medical staff and administrators to upload and manage diagnostic reports, integrated with an AWS serverless backend.",
+  "requestFramePermissions": []
+}
